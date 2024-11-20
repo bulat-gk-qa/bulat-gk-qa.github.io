@@ -14,8 +14,8 @@ body {
 
 .header__avatar {
   border-radius: 50%;
-  height: 450px;
-  width: 450px;
+  height: 300px;
+  width: 300px;
 }
 
 .header__title {
@@ -60,7 +60,6 @@ body {
   box-sizing: border-box;
   margin: 0;
 }
-
 .links__link,
 .links__title {
   font-size: 14px;
@@ -92,10 +91,18 @@ body {
   margin: 0;
   min-width: 100px;
 }
-
-footer {
+.links_tg
+{
+  height: 70px;
+  width: 100px;
+}
+{
   margin: 0 0 40px 0;
 }
+
+
+footer 
+
 .button-link {
   box-sizing: border-box;
   display: flex;
